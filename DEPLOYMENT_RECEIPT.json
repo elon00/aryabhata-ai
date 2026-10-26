@@ -1,0 +1,14 @@
+{
+  "project": "aryabhata-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "FWRCFW37zsGchyVaGkJC5vaRWRWnrJo3csj6frQ6UskU",
+  "vault_account": "24Jr4hrbEWWixSeSWGmfEiVoH1pEepSeRaEv9oofGSC6",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3iu3NHkLi71V359TH4LYTAeMP4RKvzFSoamDHzyajgZqJ1qfep6RcigQKXyNkfSW39icP2qid3TPjJDvLCbWfzyR",
+  "account_tx": "3n4acawpL255eou2CmEEhUMzWvkcjDKaEPw7GjJMT3Rb1G2vUgMapgsaR1YLQKEvDq5pgp3BugqSZia84c8WjyU9",
+  "mint_tx": "4D5tpw6yMzSBXfXkJtZsJ5S7PZwieMMTGGRnVAz6YA5c8jmn1YRh1jKusS3MtWohcFHazyqLXwZP3ex4TawKxQTr",
+  "solana_explorer_mint": "https://explorer.solana.com/address/FWRCFW37zsGchyVaGkJC5vaRWRWnrJo3csj6frQ6UskU?cluster=devnet",
+  "timestamp": "2026-10-26 16:20:11 UTC"
+}
